@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/t13cedesign/Frontend-Mentor---Social-proof-section-solution]
-- Live Site URL: [https://t13cedesign.github.io/Frontend-Mentor---Profile-card-component-solution/]
+- Live Site URL: [https://t13cedesign.github.io/Frontend-Mentor---Social-proof-section-solution/]
 
 ## My process
 
