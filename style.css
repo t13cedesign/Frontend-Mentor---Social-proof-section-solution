@@ -199,21 +199,35 @@ blockquote {
     margin: 0;
   }
 
-  .quotes-container {
-    display: flex;
-    justify-content: space-between;
-    padding-top: 8rem;
-  }
-
-  .quote {
-    max-width: 35rem;
-  }
-
   #rate02 {
     align-self: center;
   }
 
   #rate03 {
+    align-self: flex-end;
+  }
+
+  .quotes-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 6rem;
+    height: 26.5rem;
+  }
+
+  .quote {
+    max-width: 35rem;
+    max-height: 23.5rem;
+  }
+
+  #quote01 {
+    align-self: flex-start;
+  }
+
+  #quote02 {
+    align-self: center;
+  }
+
+  #quote03 {
     align-self: flex-end;
   }
 }
